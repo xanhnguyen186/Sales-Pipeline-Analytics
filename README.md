@@ -17,13 +17,13 @@ This project answers those questions through a Descriptive → Diagnostic → Pr
 📄 **[View the full dashboard (PDF)](Sales Revenue Performance.pdf)** — all three pages. For the interactive version, open `Sales Revenue Performance.pbix` in Power BI Desktop.
 
 **Page 1 — Overview**
-![Overview](overview.png)
+![Overview](sales_overview.png)
 
 **Page 2 — Loss Analysis**
-![Loss Analysis](loss_analysis.png)
+![Loss Analysis](sales_loss.png)
 
 **Page 3 — Predictive Analysis**
-![Predictive Analysis](predictive.png)
+![Predictive Analysis](sales_predictive.png)
 
 ---
 
