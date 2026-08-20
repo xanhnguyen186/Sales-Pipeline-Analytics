@@ -14,7 +14,7 @@ This project answers those questions through a Descriptive → Diagnostic → Pr
 
 ## Dashboard Preview
 
-📄 **[View the full dashboard (PDF)](Sales Revenue Performance.pdf)** — all three pages. For the interactive version, open `Sales Revenue Performance.pbix` in Power BI Desktop.
+📄 **[View the full dashboard (PDF)](Sales_Pipeline_Dashboard.pdf)** — all three pages. For the interactive version, open `Sales_Pipeline_Dashboard` in Power BI Desktop.
 
 **Page 1 — Overview**
 ![Overview](sales_overview.png)
